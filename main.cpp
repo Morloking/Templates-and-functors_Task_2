@@ -94,6 +94,6 @@ int main() {
 	//test
 	auto test = MainArray<int>(2, 3);
 	test[0][0] = 4;
-	std::cout << test[0][0]; // âûâîäèò 4
+	std::cout << test[0][0]; // Ğ²Ñ‹Ğ²Ğ¾Ğ´Ğ¸Ñ‚ 4
 	return 0;
 }
